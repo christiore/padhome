@@ -1,4 +1,4 @@
-# [roomGPT.io](https://roomGPT.io)
+# [PADOMEAI](https://roomGPT.io)
 
 This project generates new designs of your room with AI.
 
